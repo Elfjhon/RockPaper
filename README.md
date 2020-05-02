@@ -1,4 +1,2 @@
-rock-paper-scissors
-
------------------------
+Rock Paper project microverse
 Jonathan Fallas
